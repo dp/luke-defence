@@ -1,0 +1,7 @@
+To compile the coffeescript
+
+1. open terminal and paste this command:
+cd ~/Sites/LukeTD/coffeescript/
+
+2. paste this command
+coffee -c -w -o ../javascript/ .
